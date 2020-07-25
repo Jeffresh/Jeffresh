@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href=''>
+<a href='https://github.com/Jeffresh?tab=repositories'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffresh&show_icons=true&theme=tokyonight&hide=typescript,jupyter Notebook" />
 </a>
-<a href=''>
+<a href='https://github.com/Jeffresh?tab=repositories'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jeffresh&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/Jeffresh/mandelbrot-set">
