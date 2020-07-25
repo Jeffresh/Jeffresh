@@ -15,9 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffresh&show_icons=true&theme=tokyonight&hide=typescript,jupyter Notebook" />
-  </p>
-  <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jeffresh&show_icons=true&theme=tokyonight" />
-  </p>
+<a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffresh&show_icons=true&theme=tokyonight&hide=typescript,jupyter Notebook" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jeffresh&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/Jeffresh/mandelbrot-set">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeffresh&repo=mandelbrot-set&theme=tokyonight" />
+</a>    
+<a href="https://github.com/Jeffresh/tumor-growth-simulation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeffresh&repo=tumor-growth-simulation&theme=tokyonight" />
+</a>    
+<a href="https://github.com/Jeffresh/Belousov-Zhabotinsky-reaction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeffresh&repo=Belousov-Zhabotinsky-reaction&theme=tokyonight" />
+</a>    
