@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **Jeffresh/Jeffresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffresh&show_icons=true&theme=tokyonight&hide=typescript,jupyter Notebook" />
+  </p>
+  <p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jeffresh&show_icons=true&theme=tokyonight" />
+  </p>
