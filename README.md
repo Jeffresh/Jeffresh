@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href='https://github.com/Jeffresh?tab=repositories'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffresh&show_icons=true&theme=tokyonight&hide=typescript,jupyter Notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffresh&show_icons=true&theme=tokyonight&hide=typescript,jupyter Notebook,HTML" />
 </a>
 <a href='https://github.com/Jeffresh?tab=repositories'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jeffresh&show_icons=true&count_private=true&theme=tokyonight" />
