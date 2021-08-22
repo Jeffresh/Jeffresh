@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeffresh&repo=cellular-automata-simulator-1D&theme=tokyonight" />
 </a>    
 <a href="https://github.com/Jeffresh/mandelbrot-set">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeffresh&repo=mandelbrot-set&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeffresh&repo=parallel-mandelbrot-set&theme=tokyonight" />
 </a>    
 <a href="https://github.com/Jeffresh/Belousov-Zhabotinsky-reaction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeffresh&repo=Belousov-Zhabotinsky-reaction&theme=tokyonight" />
