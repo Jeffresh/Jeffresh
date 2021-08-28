@@ -35,29 +35,35 @@ Here are some ideas to get you started:
     <td>
       <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeffresh&count_private=true&theme=tokyonight" alt="Jeffresh" /></p>
     </td>
-   
   </tr>
-  
 </table> 
 
 <table style="width:100%">
-    <tr>
+ <tr>
     <th colspan="2">Repos</th>
+ </tr>
+  <tr>
+     <td>
+       <a href="https://github.com/Jeffresh/cellular-automata-simulator-1D">
+       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeffresh&repo=cellular-automata-simulator-1D&theme=tokyonight" />
+       </a>  
+     </td>
+   <td>
+     <a href="https://github.com/Jeffresh/tumor-growth-simulation">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeffresh&repo=tumor-growth-simulation&theme=tokyonight" />
+     </a>
+   </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Jeffresh/tumor-growth-simulation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeffresh&repo=tumor-growth-simulation&theme=tokyonight" />
-</a></td>
-    <td><a href="https://github.com/Jeffresh/cellular-automata-simulator-1D">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeffresh&repo=cellular-automata-simulator-1D&theme=tokyonight" />
-</a>  </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Jeffresh/mandelbrot-set">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeffresh&repo=parallel-mandelbrot-set&theme=tokyonight" />
-</a> </td>
-    <td><a href="https://github.com/Jeffresh/Belousov-Zhabotinsky-reaction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeffresh&repo=Belousov-Zhabotinsky-reaction&theme=tokyonight" />
-</a> </td>
+    <td>
+     <a href="https://github.com/Jeffresh/mandelbrot-set">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeffresh&repo=parallel-mandelbrot-set&theme=tokyonight" />
+     </a> 
+   </td>
+    <td>
+     <a href="https://github.com/Jeffresh/Belousov-Zhabotinsky-reaction">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeffresh&repo=Belousov-Zhabotinsky-reaction&theme=tokyonight" />
+     </a> 
+   </td>
   </tr>
 </table>
