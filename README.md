@@ -17,11 +17,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td>
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeffresh&count_private=true&theme=tokyonight" alt="Jeffresh" /></p>
-    </td>
-  </tr>
 </table> 
 
 <table style="width:100%">
